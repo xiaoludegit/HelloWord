@@ -1,0 +1,69 @@
+/* 公共图表样式集合 */
+html,
+body,
+p,
+ul{
+  margin: 0;
+  padding: 0;
+  list-style-type:none;
+}
+/* logo图标 */
+.shop-icon-logo{
+  display: inline-block;
+  width: 96px;
+  height: 37px;
+  background-image: url("../assets/user_z_fe074f3.png");
+  background-repeat: no-repeat;
+  background-position: -286px -23px;
+  vertical-align: bottom;
+}
+/* 人员灰色图标 */
+.shop-icon-people{
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  background-image: url("../assets/user_z_fe074f3.png");
+  background-repeat: no-repeat;
+  background-position: -366px -97px;
+  vertical-align: middle;
+}
+/* 手机图标 */
+.shop-icon-phoe{
+  display: inline-block;
+  width: 18px;
+  height: 21px;
+  background-image: url("../assets/user_z_fe074f3.png");
+  background-repeat: no-repeat;
+  background-position: -370px -179px;;
+  vertical-align: middle;
+}
+/* 密码灰色图标 */
+.shop-icon-lock{
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  background-image: url("../assets/user_z_fe074f3.png");
+  background-repeat: no-repeat;
+  background-position: -366px -135px;
+  vertical-align: middle;
+}
+/* QQ登陆图标 */
+.shop-icon-qq{
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background-image: url("../assets/pass_login_icons.png");
+  background-repeat: no-repeat;
+  background-position: -88px 0;
+  vertical-align: bottom;
+}
+/* 微博登陆图标 */
+.shop-icon-wb{
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background-image: url("../assets/pass_login_icons.png");
+  background-repeat: no-repeat;
+  background-position: -64px 0;
+  vertical-align: bottom;
+}
